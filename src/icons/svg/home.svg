@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>tab-home-sel</title>
+    <defs>
+        <linearGradient x1="50%" y1="-4.22005842%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#2481FE" offset="0%"></stop>
+            <stop stop-color="#579EFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="100%" x2="0%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#FFFFFF" stop-opacity="0.8" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1-案件大厅" transform="translate(-56.000000, -1102.000000)">
+            <g id="底部标签栏-/-3栏" transform="translate(0.000000, 1093.000000)">
+                <g id="首页-sel" transform="translate(40.000000, 9.000000)">
+                    <g id="icon" transform="translate(16.000000, 0.000000)">
+                        <g id="编组-3" transform="translate(2.000000, 1.000000)">
+                            <path d="M0.538408037,6.04399426 L8.25269375,0.533790178 C8.69973342,0.214476129 9.30026658,0.214476129 9.74730625,0.533790178 L17.461592,6.04399426 C17.7994727,6.28533764 18,6.67500016 18,7.09022301 L18,17.3571429 C18,18.4222634 17.1365492,19.2857143 16.0714286,19.2857143 L1.92857143,19.2857143 C0.86345084,19.2857143 1.80042929e-15,18.4222634 0,17.3571429 L0,7.09022301 C-4.94939343e-16,6.67500016 0.200527308,6.28533764 0.538408037,6.04399426 Z" id="矩形" fill="url(#linearGradient-1)"></path>
+                            <rect id="矩形" fill="url(#linearGradient-2)" x="3.85714286" y="14.1428571" width="10.2857143" height="1.8" rx="0.9"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
